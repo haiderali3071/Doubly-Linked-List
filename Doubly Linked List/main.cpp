@@ -460,4 +460,4 @@ public:
        
     }//end grouping
     
-};//end cirular link list class
+};//end doubly link list class
